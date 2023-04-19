@@ -1,5 +1,5 @@
 # ProgCounter-Cmod_A7-35T
-4-Bit Verilog Program Counter for the Xilinx CMod A7-35T
+A simple 4-Bit Verilog Program Counter for the Xilinx CMod A7-35T, iterates from 0000 to 1111 before overflow and the pattern repeats.
 
 **Hardware Setup:**
 
